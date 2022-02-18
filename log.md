@@ -22,3 +22,9 @@
 **Today's Progress**: Completed 911 project, did about 25% of the finance project
 
 **Thoughts:** Getting a better understanding of how we need to logically extract data, different sources for stock indicators etc. I had to go through solutions multiple times but I am learning through this.
+
+### Day 4 : February 18, 2022
+
+**Today's Progress**: Completed Finance project, started ML part of the course, did 50% part of Linear Regression Model
+
+**Thoughts:** Finance project should probably be revisited multiple times since it's a little hard to remember. Learnt the basis for doing ML; knowledge from Econometric Methods helped me get through the basic lectures fast.
