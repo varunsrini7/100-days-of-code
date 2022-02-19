@@ -28,3 +28,9 @@
 **Today's Progress**: Completed Finance project, started ML part of the course, did 50% part of Linear Regression Model
 
 **Thoughts:** Finance project should probably be revisited multiple times since it's a little hard to remember. Learnt the basis for doing ML; knowledge from Econometric Methods helped me get through the basic lectures fast.
+
+### Day 5 : February 19, 2022
+
+**Today's Progress**: Completed Linear Regression fully and also completed Logistic Regression fully
+
+**Thoughts:** I learnt the basis for Linear and Logistic regression, things are starting to make more sense. Also, able to remember more codes without looking for any reference. Seems like I need to start reading ISLR on the side.
