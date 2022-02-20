@@ -34,3 +34,10 @@
 **Today's Progress**: Completed Linear Regression fully and also completed Logistic Regression fully
 
 **Thoughts:** I learnt the basis for Linear and Logistic regression, things are starting to make more sense. Also, able to remember more codes without looking for any reference. Seems like I need to start reading ISLR on the side.
+
+### Day 6 : February 20, 2022
+
+**Today's Progress**: Completed KNN
+
+**Thoughts:** Finished the project, seems like I need to read ISLR on an urgent basis to get the mathematical hang of what's going on
+
