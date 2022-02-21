@@ -41,3 +41,8 @@
 
 **Thoughts:** Finished the project, seems like I need to read ISLR on an urgent basis to get the mathematical hang of what's going on
 
+### Day 7 : February 21, 2022
+
+**Today's Progress**: Completed Decision Trees and Random Forests
+
+**Thoughts:** understood how it works, although having a problem with fitting the data properly with all .fit() conditions, have to take care of that asap as my data results are fully wrong!
