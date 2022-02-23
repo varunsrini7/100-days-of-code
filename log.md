@@ -46,3 +46,15 @@
 **Today's Progress**: Completed Decision Trees and Random Forests
 
 **Thoughts:** understood how it works, although having a problem with fitting the data properly with all .fit() conditions, have to take care of that asap as my data results are fully wrong!
+
+### Day 8 : February 22, 2022
+
+**Today's Progress**: Completed Support Vector Machines
+
+**Thoughts:** Just learnt the concept briefly and syntax for it.
+
+### Day 9 : February 23, 2022
+
+**Today's Progress**: Completed K means clustering
+
+**Thoughts:** understood how it works, but since I was tired due to travel, I could not complete more than this today.
