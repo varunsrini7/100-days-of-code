@@ -58,3 +58,25 @@
 **Today's Progress**: Completed K means clustering
 
 **Thoughts:** understood how it works, but since I was tired due to travel, I could not complete more than this today.
+
+### Day 10 : February 24, 2022
+
+**Today's Progress**: Completed Principal Component Analysis
+
+### Day 11 : February 25, 2022
+
+**Today's Progress**: Read a bit of ISLR
+
+### Day 12 : February 26, 2022
+
+**Today's Progress**: Started Deep Learning
+
+**Thoughts:** Learnt the fundamentals of Neural Networks and some other important terms
+
+### Day 13 : February 27, 2022
+
+**Today's Progress**: Continued Deep Learning exercises
+
+### Day 14 : February 28, 2022
+
+**Today's Progress**: Started NLP
