@@ -80,3 +80,11 @@
 ### Day 14 : February 28, 2022
 
 **Today's Progress**: Started NLP
+
+### Day 15 : March 1, 2022
+
+**Today's Progress**: Completed Recommender Systems
+
+### Day 16 : March 2, 2022
+
+**Today's Progress**: Started final project on Deep Learning
