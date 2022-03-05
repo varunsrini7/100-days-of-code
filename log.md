@@ -88,3 +88,8 @@
 ### Day 16 : March 2, 2022
 
 **Today's Progress**: Started final project on Deep Learning
+
+
+### Day 17 : March 3, 2022
+
+**Today's Progress**: Completed about 80%  of the Deep Learning Project, skipped the remaining big data part. Completed the course and got the certification. Midsem break for 100-days-of-code challenge. Will resume on 17th March.
