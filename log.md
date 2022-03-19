@@ -93,3 +93,15 @@
 ### Day 17 : March 3, 2022
 
 **Today's Progress**: Completed about 80%  of the Deep Learning Project, skipped the remaining big data part. Completed the course and got the certification. Midsem break for 100-days-of-code challenge. Will resume on 17th March.
+
+### Day 18 : March 17, 2022
+
+**Today's Progress**: Started project on Premier League game predictor
+
+**Thoughts:** Just started the data science part, still figuring out what to do with the prediction with my given data
+
+### Day 19 : March 18, 2022
+
+**Today's Progress**: Started DeepLearning.ai course, finished week 1 and a slight bit of week 2
+
+**Thoughts:** Course has good theory, recommended by a senior, so doing the course properly.
