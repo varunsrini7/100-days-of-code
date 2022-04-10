@@ -105,3 +105,10 @@
 **Today's Progress**: Started DeepLearning.ai course, finished week 1 and a slight bit of week 2
 
 **Thoughts:** Course has good theory, recommended by a senior, so doing the course properly.
+
+### Day 20 : April 10, 2022
+
+**Today's Progress**: Started R programming course, and also started a project on data analysis.
+
+**Thoughts:** R course I started and also started to learn how to approach data analysis projects. 
+
