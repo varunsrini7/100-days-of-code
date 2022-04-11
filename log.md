@@ -112,3 +112,9 @@
 
 **Thoughts:** R course I started and also started to learn how to approach data analysis projects. 
 
+
+### Day 21 : April 11, 2022
+
+**Today's Progress**: Did DataFrames part from R programming course along with a lil bit of matrices as well
+
+**Thoughts:** R course I'm doing as usual, but felt a lil tired so taking project lite for today. Planning to keep deadline till friday to complete this project.
